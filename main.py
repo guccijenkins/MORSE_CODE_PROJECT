@@ -7,6 +7,7 @@
 # 5: Return the text in morse code/
 # 6: Handle cases where the morse code adjustment can return text if out of range, or if there is a space in the text/
 # 7: Make a input to decode morse code
+from art import font
 
 # list of all letters in the english alphabet
 lower_case_letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n',
